@@ -1,0 +1,10 @@
+# TI am335x contex-a8 
+BOARD_NAME="am335x_evm"
+BOARDFAMILY="ti"
+BOOTCONFIG="am335x_evm_defconfig"
+MODULES=""
+MODULES_NEXT=""
+#
+KERNEL_TARGET="next"
+CLI_TARGET="stretch,bionic:next"
+DESKTOP_TARGET=""
